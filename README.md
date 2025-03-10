@@ -1,4 +1,4 @@
-# DIM-vedio
+# DIM-video
 GX 339-4, 4U 1543 -47 disk instability model (DIM) vedio.
 
 The top panel shows surface density, central temperature, and the alpha variable as functions of time.
